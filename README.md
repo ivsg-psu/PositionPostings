@@ -38,7 +38,7 @@ This is the IVSG repository of courses taught by Dr. Brennan. The courses are li
   <summary> Click to see/unsee </summary>
   <ul>
     <li> 
-      <a href="https://github.com/ivsg-psu/Classes_VehicleDynamics_Spring2026">
+      <a href="https://github.com/ivsg-psu/Classes_VehicleDynamics_2026Spring">
       The Spring 2026 Vehicle Dynamics course.
       </a>
       <br>
