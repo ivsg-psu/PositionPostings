@@ -1,4 +1,4 @@
-# Classes
+# Position Postings
 
 <img src=".\Images\PositionPostings.jpg" alt="Classes" width="640" height="427">
 
